@@ -1,4 +1,4 @@
-# docker-lesson
+# Docker Lesson
 very simple docker example
 
 ### build and launch
